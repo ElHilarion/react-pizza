@@ -44,8 +44,8 @@ Stack: • ReactJS + хуки • React Router • Redux • Redux thunk • jso
 
 Если вы используете WSCode, то откройте папку с проектом. Затем откройте новый терминал и введите:
 
-### 'npm start' - запуск React
+### `npm start` - запуск React
 
-### 'npm run dev' - запуск json-server 
+### `npm run dev` - запуск json-server 
 
 Готово! Удачного просмотра.
