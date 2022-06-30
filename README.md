@@ -42,10 +42,15 @@ Stack: • ReactJS + хуки • React Router • Redux • Redux thunk • jso
 # Загрузка и запуск кода. 
 Вы можете скачать данный проект и посмотреть его в рабочем состоянии. 
 
-Если вы используете WSCode, то откройте папку с проектом. Затем откройте новый терминал и введите:
+Если вы используете WSCode, то откройте папку с загруженным проектом. Затем откройте новый терминал и введите:
 
 ### `npm start` - запуск React
 
+после, откройте еще один отдельный терминал и введите:
+
 ### `npm run dev` - запуск json-server 
+![Комманды](https://github.com/ElHilarion/react-pizza/blob/main/commands.png)
 
 Готово! Удачного просмотра.
+![React и server успешно работают](https://github.com/ElHilarion/react-pizza/blob/main/start%20react%20and%20server.png)
+
